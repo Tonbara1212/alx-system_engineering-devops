@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "prints the current working directory"
+pwd prints the current working directory
+ls lists contents of directory
