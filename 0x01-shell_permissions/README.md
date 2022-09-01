@@ -1,1 +1,2 @@
-su -l betty switches current user to user betty
+<su betty> switches current user to user betty
+<whoami> prints the current user
